@@ -1,6 +1,7 @@
 # TikTok-Data-Analysis
 Analyzed TikTok data to create a model for prioritizing user reports. (python)
-1. Introduction 
+
+Introduction 
 In the era of digital content, platforms like TikTok have become a significant part of our daily lives. With the surge in user-generated content, the need for effective moderation has become paramount. Users on TikTok have the ability to report videos and comments that contain claims, leading to a large volume of user reports that need to be reviewed. This presents a challenge due to the sheer volume and the need for timely moderation.
 To address this, TikTok is embarking on the development of a predictive model that can determine whether a video contains a claim or an opinion. The objective of this model is to streamline the moderation process by reducing the backlog of user reports and prioritizing them more efficiently. A successful prediction model would not only enhance the user experience but also ensure a safer and more reliable platform for content sharing.
 This project, as part of the Foundation of Data Analysis course, aims to demonstrate the application of data analysis skills acquired through the course. We will be working with the tiktok_dataset.csv data, applying various stages of the data science pipeline, including data ingestion, data engineering, analytics computation, and visualization. The end goal is to provide insights that could aid in the development of the predictive model for TikTok.
